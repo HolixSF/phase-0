@@ -1,4 +1,6 @@
 ![Alt text](imgs/wireframe-index.png "Home")
+_________________________________________________
+
 ![Alt text](imgs/wireframe-blog-index.png "Blog")
 
 **What is a wireframe?**
