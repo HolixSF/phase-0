@@ -1,0 +1,97 @@
+body {
+    color: #000080;
+    background: #ffffff;
+    
+}
+
+a {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+h1 {
+    font-variant: small-caps;
+    
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px gray solid;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+header h2 {
+    font-size: 80%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+header h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.left-col {
+    width: 50%;
+    float: left;
+}
+
+.right-col {
+    width: 50%;
+    float: right;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li p {
+    font-size:70%;
+    margin-top:2px;
+    margin-bottom:0px;
+}
+
+.logo {
+    margin: auto;
+    text-align: center;
+    border-top: 2px gray solid;
+    border-bottom: 2px gray solid;
+    clear: both;
+}
+
+.logo p {
+    font-size: 60%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.comment {
+    width: 100%;
+    text-align: left;
+    border-bottom: 2px gray solid;
+    font-size: 70%;
+}
+
+/* REFLECTION TIMMMEEE
+
+**What is important to know when linking an external file (like a stylesheet) to an HTML file?**
+```Its very important that the link and or path is valid. If the link does not work or the path does not lead to the right file or directory, the stylesheet will not show.```
+**What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?**
+```We used floats to have the columns on the left and right. We aligned the text to show in the center of the page. It was pretty diffcult getting it how we wanted because of the spacing.
+Spacing plays a pretty big role in how a site looks and its hard to get the spacing correct.```
+**What CSS did you use to modify the element style (like size, color, etc.)**
+```We used psuedo classes to determine the color of the links when visible and when visited. We also changed the font sizes to match the font on the website.
+We created border around our divs to give the line breaks on the website.```
+**Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?**
+```We chose to use classes on most of the divs because it was easier to use and style multiple elements using one class.```
+**When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?**
+```After looking at the actual sites code we noticed they did not use best practices. Our site was more modern and is able to adapt to new technology.
+I think thats the biggest thing with design is keeping up with new tech.```
+*/
