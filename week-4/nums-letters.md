@@ -13,6 +13,7 @@ division? How would you explain the difference to someone who doesn't know anyth
 
 
 **Mini Challenges**
+
 Hours in a year
 ```ruby
 puts 24 * 31 * 12
@@ -22,25 +23,30 @@ Minutes in a decade
 puts 60 * 24 * 31 * 12 * 10
 ```
 
-** <-----Reflection!!!-----> **
+**-----Reflection!!!-----**
 
 **How does Ruby handle addition, subtraction, multiplication, and division of numbers?**
+
 ```Ruby handles them just like a calculator would but only calculates numbers as integers unless you tell it to calculate as a float.```
 
 **What is the difference between integers and floats?**
+
 ```An integer is a number with no decimals and a float is a number with decimals.```
 
 **What is the difference between integer and float division?**
+
 ```Integer division rounds down its answers and float division gives you a decimal answer.```
 
 **What are strings? Why and when would you use them?**
+
 ```A string is a group of letters in a program that can have punctuation, digits, symbols, and spaces in them. A string is identified between qoutation marks. It can also be an empty string with nothing in it.```
 
 **What are local variables? Why and when would you use them?**
-```A way to name a string or a number is to assign it a variable.
-A variable is identified as a name with its first character in lowercase. Ex. my_name = "Luis". my_name is the variable and "Luis" is the string.```
+
+```A way to name a string or a number is to assign it a variable. A variable is identified as a name with its first character in lowercase. Ex. my_name = "Luis". my_name is the variable and "Luis" is the string.```
 
 **How was this challenge? Did you get a good review of some of the basics?**
+
 ```It was a good review and I was able to grasp the concepts better than before!```
 
 **Excercise Links**
