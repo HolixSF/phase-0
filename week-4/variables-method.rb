@@ -57,4 +57,9 @@ What was confusing about this material? What made sense?
 	The material was more of an overview of some of the courses I had taken prior to
 	phase 0. Variables and methods made alot more sense just from reading the book by Chris Pine.
 
+Excercise Links!
+
+[4.3](https://github.com/HolixSF/phase-0/blob/master/week-4/define-method/my_solution.rb)
+[4.3.1](https://github.com/HolixSF/phase-0/blob/master/week-4/address/my_solution.rb)
+[4.3.2](https://github.com/HolixSF/phase-0/blob/master/week-4/math/my_solution.rb)
 =end
