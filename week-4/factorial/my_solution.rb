@@ -5,11 +5,11 @@
 #up to number given
 
 #solution_1
-#while number is less than number given loop
+#while number is less than number given, loop
 #for each number in loop multiply by next number
 
 #solution_2
-#until number is 1 loop
+#until number is 0, loop
 #for each number multiply next number down
 #break loop if number = 0
 
@@ -17,6 +17,7 @@
 
 
 # Your Solution Below
+
 def factorial(number)
   # Your code goes here
   i = 1
