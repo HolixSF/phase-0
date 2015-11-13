@@ -1,6 +1,6 @@
 # Calculate a Grade
 
-# I worked on this challenge [by myself, with: Luis ].
+# I worked on this challenge [by myself, with: Reuben ].
 
 
 # Your Solution Below
