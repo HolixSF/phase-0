@@ -20,12 +20,12 @@
 # 1. total initial solution
 
 def total(my_array)
-		sum = 0
-		my_array.each do |i|
-			sum += i
-		end
-		return sum
+	sum = 0
+	my_array.each do |i|
+		sum += i
 	end
+	return sum
+end
 
 
 # 3. total refactored solution
@@ -40,6 +40,7 @@ end
 # Input: method takes an argument as an array
 # Output: returns words in array added together to create sentence while capitalizing first word and adding a period at the end.
 # Steps to solve the problem.
+
 	#create method
 	#add together arrays with spaces
 	#return the whole array as a sentence
