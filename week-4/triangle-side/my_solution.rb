@@ -1,4 +1,4 @@
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge [by myself, with: Reuben].
 
 
 # Your Solution Below
@@ -9,10 +9,8 @@ def valid_triangle?(a, b, c)
     puts false
   elsif (a + b < c) || (b + c < a) || (a + c < b) # For Checking Triangle Inequality
   	puts false
-  		
   elsif (a == b) && (b == c)	# For Equilateral 
   	puts true
-
   elsif (a == b) || (b == c) || (a == c)	# For Isoceles
   	puts true
   end
