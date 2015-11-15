@@ -1,0 +1,37 @@
+header h1 {
+    background-color: blue;
+    font-size: 150%;
+    display:block;
+    text-align: left;
+    padding:50px
+    
+}
+header p {
+    background-color: green;
+    padding:40px
+}
+
+.column-1 {
+    width:48%;
+    float: left;
+    background-color: red;
+    text-align: left;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.column-2 {
+
+    width:48%;
+    float: right;
+    background-color: yellow;
+    text-align: left;
+    margin: 0 auto;
+}
+
+footer {
+    clear:both;
+    background-color: purple;
+    bottom: 0;
+    padding: 50px;
+}
