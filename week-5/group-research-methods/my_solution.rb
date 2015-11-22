@@ -52,7 +52,7 @@ end
 def my_array_modification_method!(source, thing_to_modify)
   source.map! { |x|
     if x.is_a?(Integer)
-      x =+ thing_to_modify
+      x += thing_to_modify
     end
   x 
   }
