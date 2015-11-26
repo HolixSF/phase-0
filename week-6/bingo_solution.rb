@@ -64,87 +64,47 @@ class BingoBoard
     when "B"
       if @bingo_board.transpose[0].include?(@number)
         @bingo_board.each{ |a| a.map!{ |num| num == @number ? 'X' : num}}
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       else
         puts "Not on the board! Try again!"
         puts
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       end
     when "I"
       if @bingo_board.transpose[1].include?(@number)
         @bingo_board.each{ |a| a.map!{ |num| num == @number ? 'X' : num}}
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       else
         puts "Not on the board! Try again!"
         puts
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       end
     when "N"
       if @bingo_board.transpose[2].include?(@number)
         @bingo_board.each{ |a| a.map!{ |num| num == @number ? 'X' : num}}
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       else
         puts "Not on the board! Try again!"
         puts
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       end
     when "G"
       if @bingo_board.transpose[3].include?(@number)
         @bingo_board.each{ |a| a.map!{ |num| num == @number ? 'X' : num}}
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       else
         puts "Not on the board! Try again!"
         puts
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       end
     when "O"
       if @bingo_board.transpose[4].include?(@number)
         @bingo_board.each{ |a| a.map!{ |num| num == @number ? 'X' : num}}
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       else
         puts "Not on the board! Try again!"
         puts
-        p @bingo_board[0]
-        p @bingo_board[1]
-        p @bingo_board[2]
-        p @bingo_board[3]
-        p @bingo_board[4]
+        show_board
       end
     end
   end
