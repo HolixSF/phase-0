@@ -98,3 +98,16 @@ console.log(michaelPhelps.constructor === Athlete)
 console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps.quote)
 
 // Reflection
+
+// What JavaScript knowledge did you solidify in this challenge?
+
+//  Manipulating objects and creating basic functions.
+
+// What are constructor functions?
+
+//  Constructor functions are like classes in Ruby. 
+
+// How are constructors different from Ruby classes (in your research)?
+
+// Ruby has a method 'new' which is called directly on a class. Ruby is not strictly typed so there is no need to indentify the 
+// data type.
