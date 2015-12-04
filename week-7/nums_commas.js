@@ -58,3 +58,19 @@ separateComma(100100100)
 
 
 // Reflection
+
+// What was it like to approach the problem from the perspective of JavaScript? Did you approach the problem differently?
+
+// 	The idea was the same from Ruby. We used the general control flow of an if statement.
+
+// What did you learn about iterating over arrays in JavaScript?
+
+// 	It is very similar to ruby except for the fact that there are no built in method like each.
+
+// What was different about solving this problem in JavaScript?
+
+// 	That there are no easy built in methods we can use like we use in Ruby.
+
+// What built-in methods did you find to incorporate in your refactored solution?
+
+// 	We used toString and also split.
