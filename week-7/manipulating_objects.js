@@ -45,13 +45,19 @@ adam.children = terah.children
 // __________________________________________
 // Reflection: Use the reflection guidelines
 //
-//
-//
-//
-//
-//
+// What tests did you have trouble passing? What did you do to make it pass? Why did that work?
 
+//  creating carson as an object within the terah object was a bit difficult. I was able to make it pass by just going backward
+//  and thinking about how objects were created.
 
+// How difficult was it to add and delete properties outside of the object itself?
+
+//  It was not difficult at all.
+
+// What did you learn about manipulating objects in this challenge?
+
+//  I learned how to access and modify objects outside of chaning the properties in the given object.
+//
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
