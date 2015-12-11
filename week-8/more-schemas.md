@@ -1,13 +1,13 @@
 
-![](/imgs/one_to_one.png)
+![](imgs/one_to_one.png)
 
 This is a one to one relationship because one car is made by only one company.
 
-![](/imgs/many_to_many.png)
+![](imgs/many_to_many.png)
 
 This is a many to many relationship.
 
-![](/imgs/grocery_list.png)
+![](imgs/grocery_list.png)
 
 This is the relationship between a grocery list.
 
