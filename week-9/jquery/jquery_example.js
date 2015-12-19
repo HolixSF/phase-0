@@ -1,7 +1,7 @@
 // U3.W9:JQuery
 ​
 ​
-// I worked on this challenge [with: Rueben Brandt, Luis DeCastro, Joe Plonsker].
+// I worked on this challenge [with: Rueben Brandt, Lindsey Stevenson, Joe Plonsker].
 // This challenge took me [2] hours.
 ​
 $(document).ready(function(){
