@@ -80,3 +80,10 @@ my_playlist.display
 
 
 # Reflection
+
+# What concepts did you review in this challenge?
+# 	creating ruby classes and passing information between classes
+# What is still confusing to you about Ruby?
+# 	need to review how to access class values outside of its class
+# What are you going to study to get more prepared for Phase 1?
+# 	study more ruby methods
